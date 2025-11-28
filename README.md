@@ -12,7 +12,7 @@ Um aplicativo móvel desenvolvido como projeto preparatório para o minicurso de
 
 *   **Flutter:** Kit de ferramentas de UI para construir aplicativos compilados nativamente para mobile, web e desktop a partir de uma única base de código.
 *   **Dart:** Linguagem de programação utilizada pelo Flutter.
-*   **Pacote HTTP:** Para fazer requisições de rede e buscar os dados dos Pokémon de uma API (provavelmente a PokeAPI).
+*   **Pacote HTTP:** Para fazer requisições de rede e buscar os dados dos Pokémon de uma API (PokeAPI).
 
 ## Como Começar
 
