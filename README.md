@@ -55,14 +55,3 @@ O projeto segue a estrutura padrão de um projeto Flutter:
 *   `lib/utils/`: Funções utilitárias ou extensões (ex: `color_ext.dart`, `color_type.dart`).
 *   `lib/widgets/`: Componentes de UI reutilizáveis (ex: `pokemon_card.dart`).
 
-## Telas
-
-*(Placeholder: Adicione capturas de tela da aplicação aqui para demonstrar sua UI e funcionalidades.)*
-
-## Como Contribuir
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para mais detalhes. *(Nota: Um arquivo `LICENSE` precisaria ser criado se ainda não existir.)*
